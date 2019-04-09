@@ -23,7 +23,6 @@ body {
   transition: .6s;
   overflow: hidden;
   border-radius: 4px;
-  border: 1px solid white;
 }
 
 .card:hover {
